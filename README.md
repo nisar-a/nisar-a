@@ -5,11 +5,6 @@
 
 ---
 
-<!-- Gradient divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:FFD700&height=100&section=header"/>
-</p>
-
 ---
 
 ## 🚀 About Me
