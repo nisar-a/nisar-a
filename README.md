@@ -1,7 +1,17 @@
 <!-- Typing effect title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Hi+I'm+Nisar+A.;Web+Developer+|+MERN+Stack+Dev+%F0%9F%92%80+|+AWS+Cloud+Certified+%E2%9C%85;Building+the+Future+with+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00796B&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Nisar+A.;Web+Developer+%7C+MERN+Stack+Engineer+%7C+AWS+Certified;Crafting+Modern+Apps+with+Clean+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=23272F" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/Web%20Developer-00796B?style=for-the-badge&logo=javascript&logoColor=white" alt="Web Developer" />
+</p>
+
+<p align="center">
+  <b>Building the Future with Code & Innovation</b>
+</p>
 
 ---
 
